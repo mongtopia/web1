@@ -1,2 +1,2 @@
 # web1
-learn web language
+learn the web language
